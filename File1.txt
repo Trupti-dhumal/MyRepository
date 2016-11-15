@@ -2,3 +2,7 @@ Welcome to Git !!!.....
 
 change 1
 
+<<<<<<< HEAD
+=======
+change 2
+>>>>>>> bug123
